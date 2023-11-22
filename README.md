@@ -49,7 +49,7 @@ See Course Introduction video for a short overview of each paper's motivation.
 
 ### Reinforcement Learning 🤖
 📺 [Video](https://www.youtube.com/watch?v=E1kmZvzvkfM) / 📖 [Slides](https://github.com/Alxmrphi/ml_and_brain_2023/blob/main/RL_Slides.pdf)
-* Glascher et al. (2011) - _States versus Rewards: Dissociable neural prediction error signals underlying model-based and model-free reinforcement learning_
+* Glascher et al. (2011) - _States versus Rewards: Dissociable neural prediction error signals underlying model-based and model-free RL_
 * Banino et al. (2018) - _Vector-based navigation using grid-like representations in artificial agents_
 * Stachenfeld et al. (2017) - _The hippocampus as a predictive map_
 * Wang et al. (2018) - _Prefrontal cortex as a meta-reinforcement learning system_
