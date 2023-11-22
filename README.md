@@ -1,7 +1,7 @@
 # 🤖 Machine Learning & the Brain 🧠
 ### CMPUT 624 at UAlberta 🏫 Autumn 2023 Semester 🍁
 
-**Instructors:** Alona Fyshe 👩‍🏫 & Alex Murphy 👨‍🏫
+**Instructors:** Alona Fyshe & Alex Murphy
 
 [YouTube Class Recording Playlist](https://www.youtube.com/playlist?list=PLd84JoQefmk46BRMKi0ZUaRAgw9_hBIO9) 📺
 
