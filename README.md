@@ -5,7 +5,7 @@
 
 [YouTube Class Recordings](https://www.youtube.com/playlist?list=PLd84JoQefmk46BRMKi0ZUaRAgw9_hBIO9) 📺
 
-[![Video]([https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg](https://github.com/Alxmrphi/ml_and_brain_2023/assets/8437429/0c49fd08-1916-44db-9ca7-d6383bd437a0))]([https://www.youtube.com/watch?v=jXnoFqcAkQA](https://www.youtube.com/watch?v=cUKrp5cKxN4&list=PLd84JoQefmk46BRMKi0ZUaRAgw9_hBIO9&index=1&t=9s))
+[![Video]([[https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg](https://github.com/Alxmrphi/ml_and_brain_2023/blob/main/CourseIntroScreenshot.png)](https://github.com/Alxmrphi/ml_and_brain_2023/assets/8437429/0c49fd08-1916-44db-9ca7-d6383bd437a0))]([https://www.youtube.com/watch?v=jXnoFqcAkQA](https://www.youtube.com/watch?v=cUKrp5cKxN4&list=PLd84JoQefmk46BRMKi0ZUaRAgw9_hBIO9&index=1&t=9s))
 
 **Course Description**: Recent work has shown that the representations learned by machine
 learning models (and in particular neural network models) bear a remarkable similarity to the
