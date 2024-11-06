@@ -18,7 +18,7 @@ fact through a project, and paper readings on language, vision and reinforcement
 be advantageous but not required.
 
 **Course Objectives and Expected Learning Outcomes**:
-* Understand some of the basics of machine learning and neuroscience
+* Understand the basics of machine learning and neuroscience
 * Understand what a representation is, and how we can compare representational
 spaces.
 * Learn how to read and present a paper, and how to lead an engaging discussion
