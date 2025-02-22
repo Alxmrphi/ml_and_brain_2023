@@ -7,7 +7,7 @@
 
 [![Video](https://github.com/Alxmrphi/ml_and_brain_2023/blob/main/CourseIntroScreenshot.png)](https://www.youtube.com/watch?v=cUKrp5cKxN4&list=PLd84JoQefmk46BRMKi0ZUaRAgw9_hBIO9&index=1&t=9s)
 
-❗Post-class Write Up Blog Post: COMING SHORTLY
+❗Post-class Write Up Blog Post: COMING
 
 **Course Description**: Recent work has shown that the representations learned by machine
 learning models (and in particular neural network models) bear a remarkable similarity to the
